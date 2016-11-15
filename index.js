@@ -3,5 +3,6 @@ function test(){
 }
 
 function dd(){
-    
+alert(1)
 }
+
